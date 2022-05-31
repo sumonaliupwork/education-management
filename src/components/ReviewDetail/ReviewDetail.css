@@ -1,0 +1,46 @@
+.text-center.card {
+    margin: 10px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin: 10p;
+}
+
+span.continueShop {
+    margin-left: 10px;
+}
+
+.button-contuner {
+    text-align: center;
+}
+
+.button-contuner {
+    text-align: center;
+}
+
+p.quantity {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0;
+}
+
+h2.cart-price {
+    text-align: center;
+    color: black;
+    margin-bottom: 27px;
+}
+
+h5.names {
+    text-align: center;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.removeItem {
+    margin-left: 10px;
+}

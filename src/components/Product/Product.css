@@ -1,0 +1,60 @@
+.card img {
+    transition: transform .5s;
+    overflow: hidden;
+}
+
+.card img:hover {
+    transform: scale(1.04);
+    cursor: pointer;
+}
+
+.card {
+    overflow: hidden;
+}
+
+.lesson {
+    display: flex;
+    justify-content: space-around;
+}
+
+small.star {
+    color: gold;
+}
+
+small.text-muted {
+    display: flex;
+    justify-content: space-between;
+}
+
+.price {
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #e20fad;
+    font-weight: 700;
+}
+
+p.prices {
+    font-size: 20px;
+    margin-top: 10px;
+    color: black;
+    font-weight: 700;
+}
+
+a.viewMore.nav-link {
+    font-size: 19px;
+    font-weight: 500;
+    margin-top: 4px;
+    color: blue;
+}
+
+a.viewMore.nav-link:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.nav a {
+    margin: 0;
+    padding: 0px;
+    margin-top: 10px;
+}

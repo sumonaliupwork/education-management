@@ -1,0 +1,56 @@
+.card.mb-3 {
+    padding: 20px 0px;
+}
+
+h5.card-title {
+    text-align: left;
+    color: blue;
+    line-height: 25px;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.starIcon {
+    color: gold;
+    font-size: 20px;
+}
+
+.displays {
+    display: flex;
+}
+
+.rating {
+    margin-left: 100px;
+    margin-top: 33px;
+}
+
+p.starCount {
+    margin: 5px 0px 0px 12px;
+}
+
+p.totalPrice {
+    margin: 0px;
+    font-size: 21px;
+    color: green;
+    font-weight: 500;
+    margin-top: 12px;
+}
+
+p.seller {
+    font-size: 17px;
+    font-weight: 500;
+    margin: 5px 0px;
+}
+
+p.stock {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.addToCart {
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 8px 25px;
+}

@@ -1,0 +1,9 @@
+.cards {
+    margin-left: 10px;
+}
+
+span.totalPay {
+    color: green;
+    font-weight: 700;
+    font-size: 22px;
+}
